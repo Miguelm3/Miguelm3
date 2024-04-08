@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Miguelm3
+- 👋 Hi, I’m Miguel M.
 - 👀 I’m interested in Data Engineering projects
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on Data projects
