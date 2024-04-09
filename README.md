@@ -14,5 +14,4 @@
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=azure,powershell," />
   </a>
-  [![My Skills]([BASE_URL]?i=postgresql)
 </div>
